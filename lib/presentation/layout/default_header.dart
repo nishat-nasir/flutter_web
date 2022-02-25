@@ -151,3 +151,4 @@ class DefaultHeader extends StatelessWidget implements PreferredSizeWidget {
 }
 
 const searchByBarcode = 'Поиск по называнию, штрихкоду';
+// testing the git delete branch
